@@ -1,8 +1,9 @@
 body {
-    max-width: 90%;
+    max-width: 100%;
     margin: 0 auto;
     width: 50%;
     background: linear-gradient(90deg, #EFEFEF, #A1C4E8);
+
 
 }
 
@@ -20,4 +21,15 @@ blockquote {
 
 header {
     background-color: yellow;
+}
+
+.good {
+    color: green;
+    font-weight: bold;
+}
+
+.bad {
+    color: red;
+    font-weight: bold;
+
 }
